@@ -12,7 +12,11 @@
   <dict>
     <key>showInSymbolList</key>
     <integer>1</integer>
+    
+  	<!-- Make sure that not more then 110 characters are sent per line to the method list -->
+    <key>symbolTransformation</key>
+    <string>s/^\s*(.{1,120}).*/$1/</string>
   </dict>
-
+  
 </dict>
 </plist>
