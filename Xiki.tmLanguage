@@ -68,7 +68,7 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>xiki</string>
+	<string>source.xiki</string>
 	<key>uuid</key>
 	<string>AF8D3707-011E-11E2-9804-705681C14B6F</string>
 </dict>
