@@ -6,7 +6,7 @@
   <string>Symbol List</string>
 
   <key>scope</key>
-  <string>match.commands, match.folders, match.comments</string>
+  <string>match.commands, match.folders, keyword.control.header.xiki</string>
   
   <key>settings</key>
   <dict>

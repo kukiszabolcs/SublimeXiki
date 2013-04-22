@@ -27,7 +27,7 @@
 			<key>match</key>
 			<string>^(\s*)(>).+$</string>
 			<key>name</key>
-			<string>match.comments</string>
+			<string>keyword.control.header.xiki</string>
 		</dict>
 
 		<dict>
